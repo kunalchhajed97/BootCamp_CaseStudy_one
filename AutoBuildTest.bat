@@ -1,4 +1,5 @@
+@ECHO OFF
+csc HelloWorld.cs
 
-csc test.cs
-
-test.exe
+HelloWorld.exe
+PAUSE
